@@ -1,0 +1,41 @@
+Timestamp,What is your gender?,What was your score on the final exam for the Data Structures course?,What was your overall score on the coursework assignments for the Data Structures course?,How many classes have you attended out of the total number of classes held for the Data Structures course?,"On the night before the final exam, how many hours did you spend studying for the Data Structures exam?","On the night before the final exam, how many hours did you sleep?"
+01/03/2024 00:00:32,Male,20,30,26-50%,1-2 hours,6-8 hours
+01/03/2024 03:17:21,Male,32,48,76-100%,More than 4 hours,6-8 hours
+01/03/2024 10:34:17,Female,15,22,26-50%,1-2 hours,6-8 hours
+01/03/2024 14:45:27,Male,28,42,76-100%,More than 4 hours,6-8 hours
+01/03/2024 18:51:04,Male,35,52,76-100%,More than 4 hours,6-8 hours
+02/03/2024 04:05:57,Male,10,18,26-50%,Less than 1 hour,4-6 hours
+02/03/2024 07:11:31,Male,22,36,26-50%,3-4 hours,More than 8 hours
+02/03/2024 10:49:03,Female,38,58,76-100%,More than 4 hours,More than 8 hours
+02/03/2024 15:33:28,Female,5,10,0-25%,Less than 1 hour,Less than 4 hours
+02/03/2024 19:09:55,Female,30,45,76-100%,More than 4 hours,6-8 hours
+03/03/2024 06:17:59,Male,18,26,26-50%,1-2 hours,6-8 hours
+03/03/2024 11:21:59,Male,25,38,51-75%,3-4 hours,6-8 hours
+03/03/2024 17:28:09,Male,12,14,26-50%,Less than 1 hour,More than 8 hours
+03/03/2024 23:44:05,Female,34,50,76-100%,More than 4 hours,4-6 hours
+04/03/2024 01:47:12,Male,8,6,26-50%,Less than 1 hour,6-8 hours
+04/03/2024 08:31:40,Male,31,46,76-100%,More than 4 hours,4-6 hours
+04/03/2024 13:56:21,Male,19,28,51-75%,3-4 hours,6-8 hours
+04/03/2024 20:54:11,Male,36,54,76-100%,More than 4 hours,6-8 hours
+05/03/2024 04:02:08,Male,14,16,26-50%,1-2 hours,4-6 hours
+05/03/2024 09:03:18,Male,26,40,76-100%,More than 4 hours,6-8 hours
+05/03/2024 15:12:08,Male,37,56,76-100%,More than 4 hours,6-8 hours
+05/03/2024 18:24:59,Male,9,8,26-50%,Less than 1 hour,4-6 hours
+05/03/2024 21:35:11,Male,24,34,51-75%,3-4 hours,6-8 hours
+06/03/2024 01:38:47,Male,40,60,76-100%,More than 4 hours,More than 8 hours
+06/03/2024 05:48:22,Female,17,20,26-50%,1-2 hours,4-6 hours
+06/03/2024 08:59:07,Female,29,44,76-100%,More than 4 hours,6-8 hours
+06/03/2024 12:09:25,Female,7,4,26-50%,Less than 1 hour,6-8 hours
+06/03/2024 19:50:13,Female,21,32,51-75%,3-4 hours,6-8 hours
+07/03/2024 01:24:45,Female,33,48,76-100%,More than 4 hours,6-8 hours
+07/03/2024 07:36:29,Male,16,24,26-50%,1-2 hours,4-6 hours
+07/03/2024 14:02:35,Male,27,42,76-100%,More than 4 hours,6-8 hours
+07/03/2024 17:13:27,Male,6,12,26-50%,Less than 1 hour,4-6 hours
+07/03/2024 22:45:09,Male,23,36,26-50%,3-4 hours,More than 8 hours
+08/03/2024 02:23:04,Male,39,58,76-100%,More than 4 hours,More than 8 hours
+08/03/2024 06:45:13,Female,11,16,26-50%,1-2 hours,4-6 hours
+08/03/2024 12:32:10,Male,4,10,0-25%,Less than 1 hour,6-8 hours
+08/03/2024 16:22:18,Male,3,20,0-25%,Less than 1 hour,6-8 hours
+08/03/2024 16:51:32,Male,2,10,0-25%,Less than 1 hour,6-8 hours
+08/03/2024 21:57:36,Male,1,0,0-25%,Less than 1 hour,6-8 hours
+09/03/2024 12:51:32,Male,0,0,0-25%,Less than 1 hour,6-8 hours
